@@ -12,3 +12,5 @@ No AI was used to write the Python code or report.
 ## Python Codes
 ### PCHIP Interpolation
 The implemented PCHIP function can be found in the PCHIP_Interpolation.ipynb file. This file contains my_pchip function and the two test cases to verify my_pchip function with the PCHIP interpolation from the SciPy library.
+### Akima Interpolation
+### Modified Akima Interpolation
